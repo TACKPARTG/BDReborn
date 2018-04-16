@@ -1,4 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [BDReborn V6 (نسخه نهایی)] 
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -68,8 +68,6 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+
 
 ### Our Web Site:
-
-[Beyond Development Forum](https://Beyond-Dev.iR)
